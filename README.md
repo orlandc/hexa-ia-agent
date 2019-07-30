@@ -1,7 +1,6 @@
 # Hexa ai-agent
 
-| English | [Spanish](https://github.com/orlandc/eopl-flp-univalle/blob/master/LEEME.md) |
-| :---    |  
+| English | [Spanish](https://github.com/orlandc/hexa-ia-agent/blob/master/LEEME.md) |
+| :---    |                                                                   -----: |
 
-
-Hexa agent develop with nodejs and min max algoritm
+This is a develop of a ai-agent with the alpha beta pruning minimax algorithm, the game code is developed in nodejs by Professor Andrés Castillo, the original code is found in the [link](https://github.com/andcastillo/ai-reactApp)
