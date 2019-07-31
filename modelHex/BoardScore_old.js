@@ -7,6 +7,7 @@ function boardScore(board, player) {
         return boardPath(board).length - boardPath(transpose(board)).length;
 }
 
+
 function boardPath(board) {
     let player = '1';
     let size = board.length;
